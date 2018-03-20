@@ -32,7 +32,7 @@ public class PrimeDecomp {
             }
         }
 
-        //if the n is greater than 2 and a prime number add the n to list
+        //if the n is greater than 2 an a prime number add the n to list
         if (n > 2) {
             numList.add(n);
         }
