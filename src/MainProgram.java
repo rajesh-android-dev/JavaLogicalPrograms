@@ -1,6 +1,6 @@
 public class MainProgram {
 
     public static void main(String[] args){
-        PrimeDecomp.printPrimeFactors(86240);
+        System.out.println(PrimeDecomp.factors(7775460));
     }
 }
