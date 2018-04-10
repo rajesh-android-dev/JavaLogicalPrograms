@@ -1,5 +1,5 @@
 # JavaLogicalPrograms
-This is an IntelliJ project contains list of solved logical programs from codewars
+This is an IntelliJ project contains list of solved logical programs.
 
 1) Prime decomposition factor of a number
 2) Custom class for Binary search tree
