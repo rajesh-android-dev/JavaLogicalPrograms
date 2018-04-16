@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3113e5e9-8fa1-490c-8279-737a2f821b3a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AnagramsEnc.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AnagramsEnc1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/BalancedBrackets.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ContactsUsingTries.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/DetectBST.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/DetectBST1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/DetectCycleLinkedList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/OddDescEvenAsc.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/QueueUsingTwoStacks.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/RunningMedianUsingHeap.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/RunningMedianUsingHeap1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/StringComparison.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/StringReverse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/VowelsDoubles.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLogicalPrograms/ArrayLeftRotation.class" afterPath="$PROJECT_DIR$/out/production/JavaLogicalPrograms/ArrayLeftRotation.class" />
-      <change beforePath="$PROJECT_DIR$/src/AddMulBWNumbers.java" afterPath="$PROJECT_DIR$/src/AddMulBWNumbers.java" />
-      <change beforePath="$PROJECT_DIR$/src/CombineTwoArrays.java" afterPath="$PROJECT_DIR$/src/CombineTwoArrays.java" />
-      <change beforePath="$PROJECT_DIR$/src/CountPrimeNumbers.java" afterPath="$PROJECT_DIR$/src/CountPrimeNumbers.java" />
-      <change beforePath="$PROJECT_DIR$/src/ExponentValue.java" afterPath="$PROJECT_DIR$/src/ExponentValue.java" />
-      <change beforePath="$PROJECT_DIR$/src/FindLargestSmallest.java" afterPath="$PROJECT_DIR$/src/FindLargestSmallest.java" />
-      <change beforePath="$PROJECT_DIR$/src/MultiplicationOfOddEven.java" afterPath="$PROJECT_DIR$/src/MultiplicationOfOddEven.java" />
-      <change beforePath="$PROJECT_DIR$/src/NumberOfDigits.java" afterPath="$PROJECT_DIR$/src/NumberOfDigits.java" />
-      <change beforePath="$PROJECT_DIR$/src/PrintSignsInShapes.java" afterPath="$PROJECT_DIR$/src/PrintSignsInShapes.java" />
-      <change beforePath="$PROJECT_DIR$/src/SecondSmallLarge.java" afterPath="$PROJECT_DIR$/src/SecondSmallLarge.java" />
-      <change beforePath="$PROJECT_DIR$/src/SwapIndex.java" afterPath="$PROJECT_DIR$/src/SwapIndex.java" />
+      <change beforePath="$PROJECT_DIR$/src/OddDescEvenAsc.java" afterPath="$PROJECT_DIR$/src/OddDescEvenAsc.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -129,7 +105,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VowelsDoubles.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VowelsDoubles.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VowelsDoubles.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -142,11 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OddDescEvenAsc.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="OddDescEvenAsc.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OddDescEvenAsc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            <state relative-caret-position="405">
+              <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -221,8 +197,8 @@
         <option value="$PROJECT_DIR$/src/RunningMedianUsingHeap.java" />
         <option value="$PROJECT_DIR$/src/RunningMedianUsingHeap1.java" />
         <option value="$PROJECT_DIR$/src/ContactsUsingTries.java" />
-        <option value="$PROJECT_DIR$/src/OddDescEvenAsc.java" />
         <option value="$PROJECT_DIR$/src/VowelsDoubles.java" />
+        <option value="$PROJECT_DIR$/src/OddDescEvenAsc.java" />
       </list>
     </option>
   </component>
@@ -298,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VowelsDoubles">
+  <component name="RunManager" selected="Application.OddDescEvenAsc">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -459,8 +435,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.VowelsDoubles" />
-        <item index="1" class="java.lang.String" itemvalue="Application.OddDescEvenAsc" />
+        <item index="0" class="java.lang.String" itemvalue="Application.OddDescEvenAsc" />
+        <item index="1" class="java.lang.String" itemvalue="Application.VowelsDoubles" />
         <item index="2" class="java.lang.String" itemvalue="Application.ContactsUsingTries" />
         <item index="3" class="java.lang.String" itemvalue="Application.RunningMedianUsingHeap1" />
         <item index="4" class="java.lang.String" itemvalue="Application.RunningMedianUsingHeap" />
@@ -489,6 +465,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="23" width="1400" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -498,7 +475,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32692307" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32692307" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1022,16 +999,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OddDescEvenAsc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/VowelsDoubles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1039,6 +1006,16 @@
           <folding>
             <element signature="e#662#663#0" expanded="true" />
             <element signature="e#741#742#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OddDescEvenAsc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
