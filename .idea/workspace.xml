@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3113e5e9-8fa1-490c-8279-737a2f821b3a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearchAlgorithm.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/BubbleSortAlgorithm.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ConnectedCell.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ContactUsingTries1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FibonacciRecursive.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/IceCreamParlorUsingHashTable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NumberSystem3And4.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Player.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Primality.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/OddDescEvenAsc.java" afterPath="$PROJECT_DIR$/src/OddDescEvenAsc.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLogicalPrograms/ContactsUsingTries.class" afterPath="$PROJECT_DIR$/out/production/JavaLogicalPrograms/ContactsUsingTries.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLogicalPrograms/VowelsDoubles.class" afterPath="$PROJECT_DIR$/out/production/JavaLogicalPrograms/VowelsDoubles.class" />
+      <change beforePath="$PROJECT_DIR$/src/ContactsUsingTries.java" afterPath="$PROJECT_DIR$/src/ContactsUsingTries.java" />
+      <change beforePath="$PROJECT_DIR$/src/VowelsDoubles.java" afterPath="$PROJECT_DIR$/src/VowelsDoubles.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,88 +31,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BalancedBrackets.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BalancedBrackets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DetectBST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DetectBST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-              <folding>
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#855#856#0" expanded="true" />
-                <element signature="e#895#896#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DetectBST1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DetectBST1.java">
+      <file leaf-file-name="ContactUsingTries1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ContactUsingTries1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-              <folding>
-                <element signature="e#940#941#0" expanded="true" />
-                <element signature="e#1015#1016#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueueUsingTwoStacks.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/QueueUsingTwoStacks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding>
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#629#630#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RunningMedianUsingHeap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RunningMedianUsingHeap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RunningMedianUsingHeap1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RunningMedianUsingHeap1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="77" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContactsUsingTries.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ContactsUsingTries.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1292#1293#0" expanded="true" />
+                <element signature="e#1348#1349#0" expanded="true" />
+                <element signature="e#1389#1390#0" expanded="true" />
+                <element signature="e#1428#1429#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,21 +50,31 @@
       <file leaf-file-name="VowelsDoubles.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VowelsDoubles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+            <state relative-caret-position="195">
+              <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
               <folding>
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OddDescEvenAsc.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OddDescEvenAsc.java">
+      <file leaf-file-name="BubbleSortAlgorithm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BubbleSortAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state relative-caret-position="555">
+              <caret line="37" column="5" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,15 +82,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringReverse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringReverse.java">
+      <file leaf-file-name="BinarySearchAlgorithm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearchAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="600">
+              <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IceCreamParlorUsingHashTable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IceCreamParlorUsingHashTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="41" column="42" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="41" selection-end-column="42" />
               <folding>
-                <element signature="e#72#73#0" expanded="true" />
-                <element signature="e#93#94#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectedCell.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ConnectedCell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Primality.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Primality.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FibonacciRecursive.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FibonacciRecursive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimeDecomp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PrimeDecomp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -152,6 +153,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>i</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -163,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/PrimeDecomp.java" />
         <option value="$PROJECT_DIR$/src/BeerProblem.java" />
         <option value="$PROJECT_DIR$/src/PencilProblem.java" />
         <option value="$PROJECT_DIR$/src/GhostMatchProblem.java" />
@@ -196,9 +202,21 @@
         <option value="$PROJECT_DIR$/src/QueueUsingTwoStacks.java" />
         <option value="$PROJECT_DIR$/src/RunningMedianUsingHeap.java" />
         <option value="$PROJECT_DIR$/src/RunningMedianUsingHeap1.java" />
-        <option value="$PROJECT_DIR$/src/ContactsUsingTries.java" />
-        <option value="$PROJECT_DIR$/src/VowelsDoubles.java" />
         <option value="$PROJECT_DIR$/src/OddDescEvenAsc.java" />
+        <option value="$PROJECT_DIR$/src/NumberSystem3Or4.java" />
+        <option value="$PROJECT_DIR$/src/NumberSystem3And4.java" />
+        <option value="$PROJECT_DIR$/src/ContactsUsingTries.java" />
+        <option value="$PROJECT_DIR$/src/ContactUsingTries1.java" />
+        <option value="$PROJECT_DIR$/src/VowelsDoubles.java" />
+        <option value="$PROJECT_DIR$/src/BubbleSortAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/IntStringComparator.java" />
+        <option value="$PROJECT_DIR$/src/Player.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearchAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/IceCreamParlorUsingHashTable.java" />
+        <option value="$PROJECT_DIR$/src/ConnectedCell.java" />
+        <option value="$PROJECT_DIR$/src/PrimeDecomp.java" />
+        <option value="$PROJECT_DIR$/src/Primality.java" />
+        <option value="$PROJECT_DIR$/src/FibonacciRecursive.java" />
       </list>
     </option>
   </component>
@@ -230,10 +248,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,7 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OddDescEvenAsc">
+  <component name="RunManager" selected="Application.Primality">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -282,9 +300,9 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="ContactsUsingTries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BubbleSortAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ContactsUsingTries" />
+      <option name="MAIN_CLASS_NAME" value="BubbleSortAlgorithm" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -296,9 +314,9 @@
       <module name="JavaLogicalPrograms" />
       <envs />
     </configuration>
-    <configuration name="OddDescEvenAsc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ComparatorSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="OddDescEvenAsc" />
+      <option name="MAIN_CLASS_NAME" value="ComparatorSorting" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -310,9 +328,9 @@
       <module name="JavaLogicalPrograms" />
       <envs />
     </configuration>
-    <configuration name="RunningMedianUsingHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ConnectedCell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="RunningMedianUsingHeap" />
+      <option name="MAIN_CLASS_NAME" value="ConnectedCell" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -324,9 +342,9 @@
       <module name="JavaLogicalPrograms" />
       <envs />
     </configuration>
-    <configuration name="RunningMedianUsingHeap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="IceCreamParlorUsingHashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="RunningMedianUsingHeap1" />
+      <option name="MAIN_CLASS_NAME" value="IceCreamParlorUsingHashTable" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -338,9 +356,9 @@
       <module name="JavaLogicalPrograms" />
       <envs />
     </configuration>
-    <configuration name="VowelsDoubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Primality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="VowelsDoubles" />
+      <option name="MAIN_CLASS_NAME" value="Primality" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -427,19 +445,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RunningMedianUsingHeap" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RunningMedianUsingHeap1" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ContactsUsingTries" />
-      <item index="3" class="java.lang.String" itemvalue="Application.VowelsDoubles" />
-      <item index="4" class="java.lang.String" itemvalue="Application.OddDescEvenAsc" />
+      <item index="0" class="java.lang.String" itemvalue="Application.BubbleSortAlgorithm" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ComparatorSorting" />
+      <item index="2" class="java.lang.String" itemvalue="Application.IceCreamParlorUsingHashTable" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ConnectedCell" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Primality" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.OddDescEvenAsc" />
-        <item index="1" class="java.lang.String" itemvalue="Application.VowelsDoubles" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ContactsUsingTries" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RunningMedianUsingHeap1" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RunningMedianUsingHeap" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Primality" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ConnectedCell" />
+        <item index="2" class="java.lang.String" itemvalue="Application.IceCreamParlorUsingHashTable" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ComparatorSorting" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BubbleSortAlgorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -613,13 +631,59 @@
           <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ContactUsingTries1.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ContactUsingTries1.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ContactUsingTries1.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IceCreamParlorUsingHashTable.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConnectedCell.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Primality.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="33" />
+      <option name="time" value="42" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>curr.size</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>curr.size++</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>str.substring(index, index + 1)</expression-string>
         <language-id>JAVA</language-id>
@@ -655,59 +719,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>expression.length() / 2 != 0</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>c-'a'</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GhostMatchProblem.java" />
-    <entry file="file://$PROJECT_DIR$/src/MainProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PencilProblem.java" />
-    <entry file="file://$PROJECT_DIR$/src/PrimeDecomp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GhostMatchProblem.java" />
-    <entry file="file://$PROJECT_DIR$/src/MainProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrimeDecomp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PencilProblem.java" />
-    <entry file="file://$PROJECT_DIR$/src/GhostMatchProblem.java" />
-    <entry file="file://$PROJECT_DIR$/src/MainProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PrimeDecomp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -734,13 +748,6 @@
     <entry file="file://$PROJECT_DIR$/src/BeerProblem.java" />
     <entry file="file://$PROJECT_DIR$/src/GhostMatchProblem.java" />
     <entry file="file://$PROJECT_DIR$/src/PencilProblem.java" />
-    <entry file="file://$PROJECT_DIR$/src/PrimeDecomp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -869,10 +876,10 @@
         <state relative-caret-position="600">
           <caret line="44" column="9" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="44" selection-end-column="9" />
           <folding>
-            <element signature="e#634#635#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
-            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="false" />
+            <element signature="e#674#675#0" expanded="false" />
+            <element signature="e#998#999#0" expanded="false" />
+            <element signature="e#1072#1073#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -920,8 +927,8 @@
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
-            <element signature="e#72#73#0" expanded="true" />
-            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#72#73#0" expanded="false" />
+            <element signature="e#93#94#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -944,8 +951,8 @@
         <state relative-caret-position="195">
           <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
-            <element signature="e#940#941#0" expanded="true" />
-            <element signature="e#1015#1016#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="false" />
+            <element signature="e#1015#1016#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -973,18 +980,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RunningMedianUsingHeap1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="375">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ContactsUsingTries.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -994,29 +991,132 @@
     <entry file="file://$PROJECT_DIR$/src/RunningMedianUsingHeap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VowelsDoubles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-          <folding>
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OddDescEvenAsc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="360">
           <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumberSystem3And4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContactsUsingTries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="76" lean-forward="false" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContactUsingTries1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="77" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1348#1349#0" expanded="true" />
+            <element signature="e#1389#1390#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VowelsDoubles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BubbleSortAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="5" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntStringComparator.java" />
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IceCreamParlorUsingHashTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="41" column="42" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="41" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConnectedCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrimeDecomp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Primality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FibonacciRecursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>

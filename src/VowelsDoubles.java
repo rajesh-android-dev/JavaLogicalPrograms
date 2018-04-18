@@ -11,7 +11,7 @@ public class VowelsDoubles {
         if (input.length() <= 2) {
             if (isVowel(input.charAt(0)) && isVowel(input.charAt(1))) count++;
         } else {
-            for (int i = 0; i < input.length() - 2; i++) {
+            for (int i = 0; i <= input.length() - 2; i++) {
                 if (isVowel(input.charAt(i)) && (isVowel(input.charAt(i + 1)))) count++;
             }
         }
