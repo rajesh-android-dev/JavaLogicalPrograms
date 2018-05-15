@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3113e5e9-8fa1-490c-8279-737a2f821b3a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ZoDistinctNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZoPrintLettersSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZoSemiPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZoMagicMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLogicalPrograms/ZoReciprocalString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLogicalPrograms/ZoReciprocalString.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FibonacciRecursive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FibonacciRecursive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CoinChange.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CoinChange.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,7 +30,7 @@
       <file leaf-file-name="ZoReciprocalString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ZoReciprocalString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
+            <state relative-caret-position="210">
               <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
             </state>
           </provider>
@@ -51,7 +39,7 @@
       <file leaf-file-name="ZoDistinctNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ZoDistinctNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="405">
               <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
             </state>
           </provider>
@@ -60,8 +48,8 @@
       <file leaf-file-name="CustomBinarySearchTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CustomBinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="39" column="61" lean-forward="true" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
+            <state relative-caret-position="555">
+              <caret line="39" column="61" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
               <folding>
                 <element signature="e#149#150#0" expanded="true" />
                 <element signature="e#176#177#0" expanded="true" />
@@ -75,7 +63,7 @@
       <file leaf-file-name="ZoPrintLettersSequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ZoPrintLettersSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
+            <state relative-caret-position="375">
               <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
             </state>
           </provider>
@@ -108,17 +96,26 @@
       <file leaf-file-name="PrimeDecomp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PrimeDecomp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
+            <state relative-caret-position="525">
               <caret line="39" column="90" selection-start-line="39" selection-start-column="90" selection-end-line="39" selection-end-column="90" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZoSemiPrime.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ZoSemiPrime.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ZoSemiPrime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+            <state relative-caret-position="270">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZoMagicMatrix.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ZoMagicMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -145,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Person.java" />
         <option value="$PROJECT_DIR$/src/MainProgram.java" />
         <option value="$PROJECT_DIR$/src/CustomBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/TreeNumberPatterns.java" />
@@ -196,6 +192,7 @@
         <option value="$PROJECT_DIR$/src/ZoDistinctNumber.java" />
         <option value="$PROJECT_DIR$/src/ZoPrintLettersSequence.java" />
         <option value="$PROJECT_DIR$/src/ZoSemiPrime.java" />
+        <option value="$PROJECT_DIR$/src/ZoMagicMatrix.java" />
       </list>
     </option>
   </component>
@@ -219,9 +216,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,6 +232,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,17 +262,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ZoSemiPrime">
+  <component name="RunManager" selected="Application.ZoMagicMatrix">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="ContactsUsingTries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ContactsUsingTries" />
+    <configuration name="ZoDistinctNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZoDistinctNumber" />
       <module name="JavaLogicalPrograms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="ZoDistinctNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ZoDistinctNumber" />
+    <configuration name="ZoMagicMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZoMagicMatrix" />
       <module name="JavaLogicalPrograms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -350,18 +347,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ZoReciprocalString" />
-      <item itemvalue="Application.ContactsUsingTries" />
       <item itemvalue="Application.ZoDistinctNumber" />
       <item itemvalue="Application.ZoPrintLettersSequence" />
       <item itemvalue="Application.ZoSemiPrime" />
+      <item itemvalue="Application.ZoMagicMatrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZoMagicMatrix" />
         <item itemvalue="Application.ZoSemiPrime" />
         <item itemvalue="Application.ZoPrintLettersSequence" />
         <item itemvalue="Application.ZoDistinctNumber" />
         <item itemvalue="Application.ZoReciprocalString" />
-        <item itemvalue="Application.ContactsUsingTries" />
       </list>
     </recent_temporary>
   </component>
@@ -386,12 +383,13 @@
       <workItem from="1525670600726" duration="530000" />
       <workItem from="1525672439188" duration="193000" />
       <workItem from="1525763547128" duration="1109000" />
-      <workItem from="1526277633890" duration="3918000" />
+      <workItem from="1526277633890" duration="4422000" />
+      <workItem from="1526360410929" duration="2238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17882000" />
+    <option name="totallyTimeSpent" value="20624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="790" extended-state="0" />
@@ -658,7 +656,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BeerProblem.java" />
     <entry file="file://$PROJECT_DIR$/src/GhostMatchProblem.java" />
     <entry file="file://$PROJECT_DIR$/src/PencilProblem.java" />
     <entry file="file://$PROJECT_DIR$/src/Person.java">
@@ -984,8 +981,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CustomBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="39" column="61" lean-forward="true" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
+        <state relative-caret-position="555">
+          <caret line="39" column="61" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
           <folding>
             <element signature="e#149#150#0" expanded="true" />
             <element signature="e#176#177#0" expanded="true" />
@@ -997,36 +994,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ZoPrintLettersSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="375">
           <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ZoReciprocalString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
+        <state relative-caret-position="210">
           <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ZoDistinctNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="405">
           <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PrimeDecomp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
+        <state relative-caret-position="525">
           <caret line="39" column="90" selection-start-line="39" selection-start-column="90" selection-end-line="39" selection-end-column="90" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ZoSemiPrime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        <state relative-caret-position="270">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZoMagicMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
         </state>
       </provider>
     </entry>
