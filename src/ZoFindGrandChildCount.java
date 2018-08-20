@@ -23,22 +23,23 @@ public class ZoFindGrandChildCount {
         findGCCount(arr, father);
     }
 
-    private static void findGCCount(String[][] arr, String father) {
-        int childCount = 0;
-        for (int i = 0; i < arr.length; i++) {
-            for (int j = 0; j < arr[i].length; j++) {
-                if (arr[i][j].equals(father) && j == 1) {
-                    String child = arr[i][j - 1];
-                    for (int x = 0; x < arr.length; x++) {
-                        for (int y = 0; y < arr[i].length; y++) {
-                            if (arr[x][y].equals(child) && y == 1) {
-                                childCount++;
-                            }
-                        }
-                    }
+    private static void findGCCount(String[][] array, String father) {
+        String arr[] = new String[20];
+        int k=0;
+        for(int i=0;i<array.length;i++) {
+            if(array[i][1].equals(father)) {
+                arr[k++] = array[i][0];
+            }
+        }
+        int child = 0;
+        for(int j=0;j<arr.length;j++){
+            for(int i=0;i<array.length;i++) {
+                if(array[i][1].equals(arr[j])) {
+                    child++;
                 }
             }
         }
-        System.out.println("Total grandsons for " + father + ": " + childCount);
+
+        System.out.println(child);
     }
 }
