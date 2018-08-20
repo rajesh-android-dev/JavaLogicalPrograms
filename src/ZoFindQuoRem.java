@@ -14,17 +14,11 @@ public class ZoFindQuoRem {
     }
 
     private static void printQuoRem(int num, int div) {
-        int quo = 1;
-        int rem;
-        int n = div;
-        while (true) {
+        int quo = 0;
+        while (num >= div){
+            num -= div;
             quo++;
-            n += div;
-            if (n >= num) {
-                rem = n - num;
-                break;
-            }
         }
-        System.out.println("Quo : " + quo + " rem : " + rem);
+        System.out.println("Quo : " + quo + " rem : " + num);
     }
 }

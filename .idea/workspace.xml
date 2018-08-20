@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3113e5e9-8fa1-490c-8279-737a2f821b3a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZoFindQuoRem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZoFindQuoRem.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,6 +35,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ZoFindQuoRem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ZoFindQuoRem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ZoDistinctNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ZoDistinctNumber.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -44,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZoFindGrandChildCount.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ZoFindGrandChildCount.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ZoFindGrandChildCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="209">
+              <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -119,13 +128,13 @@
         <option value="$PROJECT_DIR$/src/ZoSemiPrime.java" />
         <option value="$PROJECT_DIR$/src/ZoMagicMatrix.java" />
         <option value="$PROJECT_DIR$/src/ZoSortOddDescEvenAsc.java" />
-        <option value="$PROJECT_DIR$/src/ZoFindQuoRem.java" />
         <option value="$PROJECT_DIR$/src/ZoFindWeight.java" />
         <option value="$PROJECT_DIR$/src/ZoStringto2DArray.java" />
-        <option value="$PROJECT_DIR$/src/ZoFindGrandChildCount.java" />
         <option value="$PROJECT_DIR$/src/ZoNextGreatestElement.java" />
         <option value="$PROJECT_DIR$/src/ZoCountChars.java" />
         <option value="$PROJECT_DIR$/src/ZoFindCyclic.java" />
+        <option value="$PROJECT_DIR$/src/ZoFindGrandChildCount.java" />
+        <option value="$PROJECT_DIR$/src/ZoFindQuoRem.java" />
       </list>
     </option>
   </component>
@@ -195,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ZoCountChars">
+  <component name="RunManager" selected="Application.ZoFindQuoRem">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -209,8 +218,8 @@
       <module name="JavaLogicalPrograms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="ZoFindWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ZoFindWeight" />
+    <configuration name="ZoFindQuoRem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZoFindQuoRem" />
       <module name="JavaLogicalPrograms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -279,19 +288,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.ZoFindWeight" />
       <item itemvalue="Application.ZoStringto2DArray" />
       <item itemvalue="Application.ZoFindGrandChildCount" />
       <item itemvalue="Application.ZoNextGreatestElement" />
       <item itemvalue="Application.ZoCountChars" />
+      <item itemvalue="Application.ZoFindQuoRem" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZoFindQuoRem" />
         <item itemvalue="Application.ZoCountChars" />
         <item itemvalue="Application.ZoNextGreatestElement" />
         <item itemvalue="Application.ZoFindGrandChildCount" />
         <item itemvalue="Application.ZoStringto2DArray" />
-        <item itemvalue="Application.ZoFindWeight" />
       </list>
     </recent_temporary>
   </component>
@@ -324,12 +333,12 @@
       <workItem from="1529309781991" duration="737000" />
       <workItem from="1529392885618" duration="1457000" />
       <workItem from="1529579200199" duration="77000" />
-      <workItem from="1534742868227" duration="3690000" />
+      <workItem from="1534742868227" duration="4491000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44363000" />
+    <option name="totallyTimeSpent" value="45164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="790" extended-state="0" />
@@ -337,6 +346,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32960895" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -348,7 +358,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32960895" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24305555" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24305555" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -358,7 +368,6 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4511173" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32960895" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -549,12 +558,6 @@
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ZoFindQuoRem.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ZoFindWeight.java</url>
           <line>28</line>
           <properties />
@@ -565,12 +568,6 @@
           <line>42</line>
           <properties />
           <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ZoFindGrandChildCount.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ZoCountChars.java</url>
@@ -949,13 +946,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZoFindQuoRem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ZoFindWeight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1014,8 +1004,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ZoFindGrandChildCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="209">
+          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZoFindQuoRem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
