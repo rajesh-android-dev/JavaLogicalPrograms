@@ -23,27 +23,35 @@ public class ZoFindWeight {
         findWeightOf(a);
     }
 
-    private static void findWeightOf(int[] a) {
-        Map<Integer, Integer> map = new HashMap<>();
-        for (int x : a) {
-            double sqrVal = Math.sqrt((double) x);
-            int iSqr = (int) sqrVal;
-            double rem = sqrVal - (double) iSqr;
-            if (rem == 0) {
-                map.put(x, 5);
-            }
-            else if (x % 4 == 0 & x % 6 == 0) {
-                map.put(x, 4);
-            }
-            else if (x % 2 == 0) {
-                map.put(x, 3);
-            }
+    private static void findWeight(int[] numArray){
+        int numArraylen = numArray.length;
+
+        for(int i=0; i<numArraylen; i++)
+            for(int j=i+1; j<numArraylen; j++)
+                if(numArray[i] > numArray[j])
+                {
+                    int temp = numArray[i];
+                    numArray[i] = numArray[j];
+                    numArray[j] = temp;
+                }
+        int[] wegArray = new int[numArraylen];
+
+        for(int i=0; i<numArraylen; i++)
+        {
+            wegArray[i] = 0;
+            int sq =(int) Math.sqrt(numArray[i]);
+            if((sq*sq) == numArray[i])
+                wegArray[i] = wegArray[i] + 5;
+
+            if(numArray[i]%4==0 || numArray[i]%6==0)
+                wegArray[i] = wegArray[i] + 4;
+
+            if(numArray[i]%2 == 0)
+                wegArray[i] = wegArray[i] + 3;
+
         }
-        Set<Map.Entry<Integer,Integer>> set = map.entrySet();
-        List<Map.Entry<Integer,Integer>> list = new ArrayList<>(set);
-        Collections.sort(list, (o1, o2) -> o2.getValue().compareTo(o1.getValue()));
-        for (Map.Entry<Integer,Integer> entry : list){
-            System.out.println(entry.getKey() + " -- " + entry.getValue());
-        }
+
+        for(int i=0; i<numArraylen; i++)
+            System.out.print(numArray[i]+" -- "+wegArray[i]);
     }
 }

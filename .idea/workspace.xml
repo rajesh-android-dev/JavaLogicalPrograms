@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3113e5e9-8fa1-490c-8279-737a2f821b3a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ZoFindQuoRem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZoFindQuoRem.java" afterDir="false" />
-    </list>
+    <list default="true" id="3113e5e9-8fa1-490c-8279-737a2f821b3a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,11 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZoFindQuoRem.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ZoFindQuoRem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ZoFindQuoRem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZoFindWeight.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ZoFindWeight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="114" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="114" />
             </state>
           </provider>
         </entry>
@@ -333,12 +340,12 @@
       <workItem from="1529309781991" duration="737000" />
       <workItem from="1529392885618" duration="1457000" />
       <workItem from="1529579200199" duration="77000" />
-      <workItem from="1534742868227" duration="4491000" />
+      <workItem from="1534742868227" duration="5042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45164000" />
+    <option name="totallyTimeSpent" value="45715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="790" extended-state="0" />
@@ -358,7 +365,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32960895" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24305555" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24305555" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -582,7 +589,7 @@
           <option name="timeStamp" value="56" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="57" />
+      <option name="time" value="58" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -946,13 +953,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZoFindWeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ZoRainTrapping.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1011,8 +1011,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ZoFindQuoRem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZoFindWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="114" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="114" />
         </state>
       </provider>
     </entry>
