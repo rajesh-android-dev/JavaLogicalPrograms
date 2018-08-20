@@ -21,7 +21,7 @@ public class ZoFindCyclic {
         boolean allSame = true;
         while (x > 0) {
             count++;
-            if (num%1 != digit) allSame = false;
+            if (num%10 != digit) allSame = false;
             x /= 10;
         }
 
