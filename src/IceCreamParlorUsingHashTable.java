@@ -3,10 +3,14 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- * Each time Sunny and Johnny take a trip to the Ice Cream Parlor, they pool together money dollars for ice cream. On any given day, the parlor offers a line of n
+ * Each time Sunny and Johnny take a trip to the Ice Cream Parlor, they pool together money dollars for ice cream.
+ * On any given day, the parlor offers a line of n
  * flavors, i, is numbered sequentially with a unique ID number from 1 to n and has a cost associated with it.
  * <p>
- * Given the value of money and the cost of each flavor for t trips to the Ice Cream Parlor, help Sunny and Johnny choose two distinct flavors such that they spend their entire pool of money during each visit. For each trip to the parlor, print the ID numbers for the two types of ice cream that Sunny and Johnny purchase as two space-separated integers on a new line. You must print the smaller ID first and the larger ID second.
+ * Given the value of money and the cost of each flavor for t trips to the Ice Cream Parlor, help Sunny and Johnny
+ * choose two distinct flavors such that they spend their entire pool of money during each visit. For each trip to the parlor,
+ * print the ID numbers for the two types of ice cream that Sunny and Johnny purchase as two space-separated integers on a new line.
+ * You must print the smaller ID first and the larger ID second.
  * <p>
  * Note: Two ice creams having unique IDs i and j may have the same cost (i.e., costi == costj ).
  */

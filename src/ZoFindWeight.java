@@ -20,7 +20,7 @@ public class ZoFindWeight {
         for (int i = 0; i < len; i++) {
             a[i] = sc.nextInt();
         }
-        findWeightOf(a);
+        findWeight(a);
     }
 
     private static void findWeight(int[] numArray){
